@@ -1,0 +1,59 @@
+*{
+   box-sizing: border-box;
+   background-color: lightyellow;
+}
+body{
+    margin: 20px;
+    padding: 20px;
+}
+header a{
+    float: left;
+    width: 10em;
+    text-align: center;
+        padding: 20px;
+        font-family: 'Times New Roman', Times, serif;     
+}
+.clear{
+    clear: both;
+}
+.home{
+    background-color: greenyellow;
+    color: honeydew;
+}
+.img{
+    background: url(https://www.indiacarnews.com/wp-content/uploads/2020/07/Upcoming-New-Bike-Launches-1000x600.jpg)
+    no-repeat top center/cover;
+    height: 400px;
+}
+form{
+    text-align: center;
+}
+div .head{
+    font-size: 1.3em;
+    background-color: rgb(83, 172, 83);
+    color: honeydew;
+    padding: 5px;
+    float: left;
+    width: 100%;
+}
+.img1{
+    float: left;
+  text-align: center;
+  width: 33%;
+  padding:7px;
+
+}
+img{
+    height: 50vh;
+    width: 100%;
+    float: left;
+}
+.para1{
+ background-color: lightgray;
+ text-align: left;
+ letter-spacing: 1.3px; 
+}
+.para1 a{
+    text-decoration: none;
+    float: right;
+}
