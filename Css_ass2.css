@@ -4,8 +4,9 @@
    font-family: 'Times New Roman', Times, serif
 }
 body{
-    margin: 20px;
+    
     padding: 20px;
+    border: solid 20px yellow;
 }
 header a{
     float: left;
