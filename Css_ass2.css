@@ -29,11 +29,11 @@ form{
     text-align: center;
 }
 div .head{
-    font-size: 1.3em;
+    font-size: 2em;
     background-color: rgb(83, 172, 83);
     color: honeydew;
     padding: 5px;
-    float: left;
+    margin: 0;
     width: 100%;
 }
 .img1{
@@ -41,19 +41,34 @@ div .head{
   text-align: center;
   width: 33%;
   padding:7px;
+  
 
 }
 img{
     height: 50vh;
-    width: 100%;
+    width: 402px;
     float: left;
 }
 .para1{
  background-color: lightgray;
- text-align: left;
- letter-spacing: 1.3px; 
+ text-align: justify;
+ letter-spacing: 1.3px;
+ margin: 0; 
 }
 .para1 a{
     text-decoration: none;
     float: right;
+    font-size: 2em;
+    background-color: rgb(83, 172, 83);
+    color: honeydew;
+}
+li{
+    text-align: justify;
+    letter-spacing: 0.1em;
+}
+.para2{
+    margin: 0;
+    text-align: justify;
+    padding: 0;
+    letter-spacing: 0.1em;
 }
