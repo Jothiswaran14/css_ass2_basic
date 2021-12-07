@@ -39,10 +39,9 @@ div .head{
 .img1{
     float: left;
   text-align: center;
-  width: 33%;
+  width: 33.3333333%;
   padding:7px;
   
-
 }
 img{
     height: 50vh;
@@ -54,6 +53,7 @@ img{
  text-align: justify;
  letter-spacing: 1.3px;
  margin: 0; 
+ height: max-content;
 }
 .para1 a{
     text-decoration: none;
@@ -65,10 +65,57 @@ img{
 li{
     text-align: justify;
     letter-spacing: 0.1em;
+   
 }
 .para2{
     margin: 0;
     text-align: justify;
     padding: 0;
     letter-spacing: 0.1em;
+    
+}
+button{
+    float: left;
+    background-color: lightslategray;
+    color: whitesmoke;
+    font-size: larger;
+}
+.img2{
+    float: left;
+  text-align: center;
+  width: 33.3333333%;
+  padding:7px;
+  
+}
+.sec1{
+    float: left;
+    text-align: center;
+    
+}
+.head1{
+    
+    color: white;
+    background-color: yellowgreen;
+    font-size: 8em;
+    text-align: center;
+    margin: 0;
+    float: left;
+    padding-bottom: 14px;
+}
+.para3{
+    text-align: justify;
+    background-color: gray;
+    color: honeydew;
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.balan{
+    float: left;
+    width: 50%;
+    border: 3em;
+    padding: 2em;
+    height: max-content;
+    
+
 }
