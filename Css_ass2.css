@@ -1,6 +1,7 @@
 *{
    box-sizing: border-box;
    background-color: lightyellow;
+   font-family: 'Times New Roman', Times, serif
 }
 body{
     margin: 20px;
@@ -58,7 +59,7 @@ img{
 .para1 a{
     text-decoration: none;
     float: right;
-    font-size: 2em;
+    font-size: 1em;
     background-color: rgb(83, 172, 83);
     color: honeydew;
 }
@@ -116,6 +117,7 @@ button{
     border: 3em;
     padding: 2em;
     height: max-content;
-    
-
+}
+footer{
+    text-align: center;
 }
